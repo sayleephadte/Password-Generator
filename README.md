@@ -1,24 +1,32 @@
-# RandomPasswordGenerator
+# Password Generator
 
-This project generates a random strong Password of minimum 8 length and maximum 20 length.
-The use of letters,digits and symbols depends upon the user.
+This project generates a random strong Password of minimum 8 length and maximum 20 length. The use of letters, digits and symbols depends upon the user.
 
-# Live Site
+## Getting Started
+1. Clone this repository to your local machine
+```bash
+git clone 
+```
+2. Navigate to the project directory
+```bash
+cd Password-Generator
+```
+3. Install dependencies
+```bash
+npm install
+```
+4. Run the app
+```bash
+ng serve
+```
+5. Open http://localhost:4200/ in your browser to see the application running
 
-Click [here](https://grraghav120.github.io/Random-Password-Generator/)
+### Built With
+- [Angular 15](https://angular.io/)
+- [Bootstrap](https://getbootstrap.com/)
 
-## Screenshots of project
-![image](https://user-images.githubusercontent.com/96789493/232272329-8c0b54eb-eb97-4f25-bd1d-368911d9a68b.png)
-
-![image](https://user-images.githubusercontent.com/96789493/232272340-ce686d3e-6ae5-46b5-96ee-de563431e426.png)
+### Authors
+- [Saylee Phadte]
 
 
-## Run the Project
-
-- `npm start`
-- Run `ng serve` for a dev server.
-- Navigate to `http://localhost:4200/`.
-- The application will automatically reload if you change any of the source files.
-
-## Don't forget to give repo a star
 
