@@ -5,7 +5,7 @@ This project generates a random strong Password of minimum 8 length and maximum 
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
-git clone 
+git clone https://github.com/sayleephadte/Password-Generator
 ```
 2. Navigate to the project directory
 ```bash
